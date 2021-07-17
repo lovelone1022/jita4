@@ -1,0 +1,128 @@
+{
+  "id": "1551794",
+  "name": "吉他室",
+  "font_family": "icon",
+  "css_prefix_text": "ico-",
+  "description": "吉他室常用图标",
+  "glyphs": [
+    {
+      "icon_id": "784212",
+      "name": "版权",
+      "font_class": "copyright",
+      "unicode": "e6d5",
+      "unicode_decimal": 59093
+    },
+    {
+      "icon_id": "947484",
+      "name": "图片",
+      "font_class": "img",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "1120832",
+      "name": "首页",
+      "font_class": "home",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "1166100",
+      "name": "工具箱",
+      "font_class": "tool",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "1189741",
+      "name": "向上箭头_圈",
+      "font_class": "top",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "1603703",
+      "name": "歌手",
+      "font_class": "singer",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "2029536",
+      "name": "学习",
+      "font_class": "learn",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "4539905",
+      "name": "浏览",
+      "font_class": "see2",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "4890463",
+      "name": "视频",
+      "font_class": "video2",
+      "unicode": "e6f4",
+      "unicode_decimal": 59124
+    },
+    {
+      "icon_id": "5809222",
+      "name": "新闻",
+      "font_class": "news",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "5849201",
+      "name": "专辑",
+      "font_class": "album",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "6235462",
+      "name": "点赞",
+      "font_class": "heart",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "6582307",
+      "name": "视频",
+      "font_class": "video",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "7055635",
+      "name": "日历",
+      "font_class": "calendar",
+      "unicode": "e72a",
+      "unicode_decimal": 59178
+    },
+    {
+      "icon_id": "7797840",
+      "name": "浏览",
+      "font_class": "see",
+      "unicode": "e6c6",
+      "unicode_decimal": 59078
+    },
+    {
+      "icon_id": "8219242",
+      "name": "关于",
+      "font_class": "about",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "9512706",
+      "name": "点赞",
+      "font_class": "good",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    }
+  ]
+}
